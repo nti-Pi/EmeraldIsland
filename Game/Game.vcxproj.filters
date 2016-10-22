@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ei">
+      <UniqueIdentifier>{7882d7ca-9b29-4f22-aa4d-f19060b6ae69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ei\common">
+      <UniqueIdentifier>{42d0e48e-3ceb-4e9c-9939-7866633e38c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ei\common\geometry">
+      <UniqueIdentifier>{ff60b2d0-696b-4493-9bb0-924fb2f928eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ei\engine">
+      <UniqueIdentifier>{1258795b-303f-4477-8526-35ff804d986a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ei\engine\input">
+      <UniqueIdentifier>{38814b85-81bb-4e6d-ac67-e68fb8e20e89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ei\engine\state">
+      <UniqueIdentifier>{fafe377c-624a-4224-ba38-016e47ba3f57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ei\game">
+      <UniqueIdentifier>{7692dff8-e773-4953-a66c-1ac6423cdf5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ei\game\world_test">
+      <UniqueIdentifier>{3b2f18b0-d661-4b1a-8c46-c9c081d8308e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\common\Attribute.cpp">
+      <Filter>ei\common</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\CharColor.cpp">
+      <Filter>ei\common</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\CharMap.cpp">
+      <Filter>ei\common</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\Color3b.cpp">
+      <Filter>ei\common</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\ErrorControl.cpp">
+      <Filter>ei\common</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\ImageMap.cpp">
+      <Filter>ei\common</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\Logging.cpp">
+      <Filter>ei\common</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\WChar.cpp">
+      <Filter>ei\common</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\geometry\CollisionPoint2D.cpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\geometry\LineD.cpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\geometry\PolygonD.cpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\geometry\Rect.cpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\geometry\Vec2D.cpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\geometry\Vec2i.cpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="src\common\geometry\Vec2u.cpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\BaseManager.cpp">
+      <Filter>ei\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\ConsoleManager.cpp">
+      <Filter>ei\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Engine.cpp">
+      <Filter>ei\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\InputManager.cpp">
+      <Filter>ei\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\StateManager.cpp">
+      <Filter>ei\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\state\BaseState.cpp">
+      <Filter>ei\engine\state</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\input\Key.cpp">
+      <Filter>ei\engine\input</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\MainMenu.cpp">
+      <Filter>ei\game</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\TestState.cpp">
+      <Filter>ei\game</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\WorldTest.cpp">
+      <Filter>ei\game</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\world_test\Map.cpp">
+      <Filter>ei\game\world_test</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\world_test\Tile.cpp">
+      <Filter>ei\game\world_test</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>ei</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\common\Attribute.hpp">
+      <Filter>ei\common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\CharColor.hpp">
+      <Filter>ei\common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\CharMap.hpp">
+      <Filter>ei\common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\Color3b.hpp">
+      <Filter>ei\common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\ErrorControl.hpp">
+      <Filter>ei\common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\ImageMap.hpp">
+      <Filter>ei\common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\Logging.hpp">
+      <Filter>ei\common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\WChar.hpp">
+      <Filter>ei\common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\geometry\CollisionPoint2D.hpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\geometry\LineD.hpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\geometry\PolygonD.hpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\geometry\Rect.hpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\geometry\Vec2D.hpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\geometry\Vec2i.hpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\geometry\Vec2u.hpp">
+      <Filter>ei\common\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="src\engine\BaseManager.hpp">
+      <Filter>ei\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\engine\ConsoleManager.hpp">
+      <Filter>ei\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\engine\Engine.hpp">
+      <Filter>ei\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\engine\InputManager.hpp">
+      <Filter>ei\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\engine\StateManager.hpp">
+      <Filter>ei\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\engine\state\BaseState.hpp">
+      <Filter>ei\engine\state</Filter>
+    </ClInclude>
+    <ClInclude Include="src\engine\input\Key.hpp">
+      <Filter>ei\engine\input</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\MainMenu.hpp">
+      <Filter>ei\game</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\TestState.hpp">
+      <Filter>ei\game</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\WorldTest.hpp">
+      <Filter>ei\game</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\world_test\Map.hpp">
+      <Filter>ei\game\world_test</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\world_test\Tile.hpp">
+      <Filter>ei\game\world_test</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

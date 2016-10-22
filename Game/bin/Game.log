@@ -1,0 +1,81 @@
+﻿  main.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Tile.cpp
+  Map.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\game\world_test\map.cpp(34): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+  WorldTest.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\game\worldtest.cpp(29): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\game\worldtest.cpp(30): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  TestState.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\game\teststate.cpp(38): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\game\teststate.cpp(67): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MainMenu.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  BaseState.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Key.cpp
+  StateManager.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  InputManager.cpp
+  Engine.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\engine\engine.cpp(47): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ConsoleManager.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  BaseManager.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Vec2u.cpp
+  Vec2i.cpp
+  Vec2D.cpp
+  Rect.cpp
+  PolygonD.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\geometry\polygond.cpp(46): warning C4800: 'unsigned int': forcing value to bool 'true' or 'false' (performance warning)
+  LineD.cpp
+  CollisionPoint2D.cpp
+  Generating Code...
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\geometry\lined.hpp(23): warning C4172: returning address of local variable or temporary
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\engine\input\key.cpp(99): warning C4715: 'ei::engine::input::Key::get': not all control paths return a value
+  Compiling...
+  WChar.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Logging.cpp
+  ImageMap.cpp
+  Color3b.cpp
+  CharMap.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  CharColor.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.cpp(27): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Attribute.cpp
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nikhil\documents\visual studio 2015\projects\emeraldisland\game\src\common\charcolor.hpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+  Game.vcxproj -> c:\users\nikhil\documents\visual studio 2015\Projects\EmeraldIsland\Binaries\Game\Game.exe
+  Game.vcxproj -> c:\users\nikhil\documents\visual studio 2015\Projects\EmeraldIsland\Binaries\Game\Game.pdb (Full PDB)
